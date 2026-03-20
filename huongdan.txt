@@ -1,0 +1,40 @@
+- https://www.kaggle.com/datasets/rkiattisak/traveler-trip-data
+- https://www.kaggle.com/datasets/pavelstefanovi/travel-dataset
+- https://www.kaggle.com/datasets/leomauro/argodatathon2019
+- https://www.kaggle.com/datasets/aravindanr22052001/travelcsv
+- https://www.kaggle.com/datasets/umeradnaan/tourism-dataset
+- https://www.kaggle.com/datasets/jacopoferretti/expedia-travel-dataset
+- https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places
+----------------
+- https://console.groq.com/keys
+-------------
+pip install -r requirements.txt
+pip install open_clip_torch
+GROQ_API_KEY=gsk_your_api_key_here
+python setup.py
+LỆNH CHẠY BÀI: python -m streamlit run main.py
+
+------------------ 
+Cài Đặt
+Bước 1 — Cài dependencies
+bashpip install -r requirements.txt
+Bước 2 — Tạo file .env và thêm API key
+GROQ_API_KEY=gsk_xxxxxxxxxxxxxxxxxxxxxxxx
+Bước 3 — Đặt file dữ liệu CSV vào thư mục data/
+Các file được hỗ trợ: flights.csv, hotels.csv, tourism_dataset.csv, Travel.csv, v.v.
+Bước 4 — Build index (chỉ chạy lần đầu)
+bashpython setup.py
+Bước 5 — Chạy ứng dụng
+bashstreamlit run main.py
+
+----
+Link deloy : https://share.streamlit.io/new
+
+
+---- API THỜI TIẾT <----
+
+
+
+https://home.openweathermap.org/users/sign_in
+
+https://home.openweathermap.org/api_keys
