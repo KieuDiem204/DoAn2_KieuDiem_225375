@@ -1,4 +1,4 @@
-CÁC CHỨC NĂNG CHÍNH ĐÃ XÂY DỰNG ĐƯỢC NHƯ SAU : link chạy : https://doan2kieudiem225375-4tevahcmswzqgsv5haks2p.streamlit.app/
+CÁC CHỨC NĂNG CHÍNH ĐÃ XÂY DỰNG ĐƯỢC NHƯ SAU : link chạy :https://doan2kieudiem225375-4tevahcmswzqgsv5haks2p.streamlit.app/
 
 1. Tư vấn điểm đến cụ thể
 
